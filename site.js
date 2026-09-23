@@ -1,7 +1,7 @@
 // ─── Preencha só aqui ────────────────────────────────────────────────
 const SITE = {
-  owner: 'Italo José Zarantonelo Trindade',
-  email: 'minhasprimeiraspalavrasapp@gmail.com',
+  owner: 'Italo José Zarantonelo Trindade',          // pessoa ou empresa responsável pelo app
+  email: 'minhasprimeiraspalavrasapp@gmail.com',      // e-mail de contato / privacidade
   updated: { pt: '22 de setembro de 2026', en: 'September 22, 2026' },
 };
 // ─────────────────────────────────────────────────────────────────────
