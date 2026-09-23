@@ -1,7 +1,7 @@
 // ─── Preencha só aqui ────────────────────────────────────────────────
 const SITE = {
-  owner: 'Italo J. Z. Trindade',
-  email: 'minhasprimeiraspalavrasapp@gmail.com',
+  owner: '[SEU NOME COMPLETO]',          // pessoa ou empresa responsável pelo app
+  email: '[seu-email@exemplo.com]',      // e-mail de contato / privacidade
   updated: { pt: '22 de setembro de 2026', en: 'September 22, 2026' },
 };
 // ─────────────────────────────────────────────────────────────────────
