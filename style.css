@@ -20,6 +20,7 @@ body[data-lang="pt"] [lang="en"], body[data-lang="en"] [lang="pt-BR"] { display:
   font: 400 19px/1 'Newsreader', serif; }
 .mark { width: 30px; height: 30px; border-radius: 9px; background: var(--accent); color: var(--bg);
   display: grid; place-items: center; font: 400 17px/1 'Newsreader', serif; }
+img.mark { display: block; object-fit: cover; }
 .lang { display: flex; gap: 2px; padding: 3px; border-radius: 10px; background: var(--sunken); }
 .lang button { border: 0; background: none; padding: 5px 10px; border-radius: 7px; cursor: pointer;
   font: 600 12px/1 'Plus Jakarta Sans', sans-serif; color: var(--faint); }
